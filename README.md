@@ -236,12 +236,6 @@ Interactive demo of all 9 animated weather backgrounds with live switching.
 
 ### API Diagnostic Tool
 ```
-http://localhost:8000/test-api.html
-```
-Test and troubleshoot API connections.
-
----
-
 ## 🌐 API Usage
 
 ### OpenWeatherMap API Endpoints Used:
